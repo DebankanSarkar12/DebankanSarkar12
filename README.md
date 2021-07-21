@@ -33,10 +33,10 @@
 ## 📊 My Github Stats
 <p>
     <a href="https://github.com/DebankanSarkar12/github-readme-stats"><img alt="Debankan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DebankanSarkar12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/priyanshumodi22/github-readme-stats"><img alt="Priyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumodi22&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DebankanSarkar12/github-readme-stats"><img alt="Debankan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebankanSarkar12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <p align="center">
-    <a href="https://github.com/riyanshumodi22/github-readme-streak-stats">
+    <a href="https://github.com/DebankanSarkar12/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyanshu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -44,7 +44,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/priyanshumodi22/github-readme-activity-graph"><img alt="Priyanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=priyanshumodi22&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DebankanSarkar12/github-readme-activity-graph"><img alt="DebankanSarkar12's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DebankanSarkar12&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
