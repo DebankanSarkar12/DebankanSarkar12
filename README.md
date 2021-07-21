@@ -7,10 +7,10 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🤔 &nbsp; Learning, exploring new technologies and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Communication Engineering at **Kalinga       Institute of Industrial Technology, Bhubaneswar.**
-- 🌱 &nbsp; Learning more about Web development, Systems Design and Artificial       Intelligence.
+- 🎓 &nbsp; Studying Computer Science and Communication Engineering at **Bengal       Institute of Industrial Technology, Kolkata.**
+- 🌱 &nbsp; Learning more about System Security, Networking and Artificial       Intelligence.
 - ✍️ &nbsp; Solving complex and challenging problems.
-- 📫 How to reach me **priyanshumodi2001@gmail.com**
+- 📫 How to reach me **debankansarkar.kol@gmail.com**
 <br/><br/>
 
 ## 🚀 Languages and Tools:
