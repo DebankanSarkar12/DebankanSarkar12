@@ -4,7 +4,7 @@
 
 ## <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/9b7RA8UZj2Quad47m0/giphy.gif" />
+<img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 
 - 🤔 &nbsp; Learning, exploring new technologies and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Communication Engineering at **Bengal       Institute of Industrial Technology, Kolkata.**
