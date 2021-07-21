@@ -4,9 +4,9 @@
 
 ## <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 - 🤔 &nbsp; Learning, exploring new technologies and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Communication Engineering at **Bengal       Institute of Industrial Technology, Kolkata.**
+- 🎓 &nbsp; Studying Computer Science and Communication Engineering at **Bengal       Institute of Technology, Kolkata.**
 - 🌱 &nbsp; Learning more about System Security, Networking and Artificial       Intelligence.
 - ✍️ &nbsp; Solving complex and challenging problems.
 - 📫 How to reach me **debankansarkar.kol@gmail.com**
