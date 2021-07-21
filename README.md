@@ -3,8 +3,7 @@
 <h3 align="center">An Cyber Security Researcher, Blogger and  Learner</h3>
 
 ## <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🤔 &nbsp; Learning, exploring new technologies and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Communication Engineering at **Bengal       Institute of Industrial Technology, Kolkata.**
