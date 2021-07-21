@@ -60,6 +60,6 @@
 
 <a href = "https://www.instagram.com/hey_its_me_krov/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hey_its_me_krov" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshumodi22" alt="profile vist counter" /> </p>  
-<a href="https://github.com/priyanshumodi22">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DebankanSarkar12" alt="profile vist counter" /> </p>  
+<a href="https://github.com/DebankanSarkar12">
 
