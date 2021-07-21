@@ -26,8 +26,8 @@
 <br/>
 
 ## What Am I Current Doing
- * I am currently 🔭 polishing my skills in Data Structures & Algorithms and learning Web development side by side.
- * Getting Started with ReactJS !!
+ * I am currently 🔭 polishing my skills in Sytem Architecture and learning Networking side by side.
+ * Getting Started with ML !!
 
 
 ## 📊 My Github Stats
