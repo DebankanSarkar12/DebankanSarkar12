@@ -11,7 +11,7 @@
 - 🌱 &nbsp; Learning more about System Security, Networking and Artificial       Intelligence.
 - ✍️ &nbsp; Solving complex and challenging problems.
 - 📫 How to reach me **debankansarkar.kol@gmail.com**
-- ✍️ Blogger at  https://hashnode.com/@DebankanSarkar
+- ✍️ Blogger at  <a href="https://hashnode.com/@DebankanSarkar">HashNode</a>
 <br/><br/>
 
 ## 🚀 Languages and Tools:
