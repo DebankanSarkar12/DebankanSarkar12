@@ -54,7 +54,7 @@
 <a href="https://www.hackerrank.com/Debankansarkar_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Debankansarkar_1" height="30" width="40" /></a>
 <a href = "https://www.instagram.com/hey_its_me_krov/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hey_its_me_krov" height="30" width="40" /></a>
 <a href="https://kaggle.com/debankansarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debankansarkar" height="30" width="40" /></a>
-<a href="https://hashnode.com/@DebankanSarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="debankansarkar" height="30" width="40" /></a>
+<a href="https://hashnode.com/@DebankanSarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/HashNode.svg" alt="debankansarkar" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DebankanSarkar12" alt="profile vist counter" /> </p>  
 <a href="https://github.com/DebankanSarkar12">
