@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Debankan</h1>
-<h3 align="center">A Machine Learning Researcher, Blogger and  Learner</h3>
+<h3 align="center">A Web Developer, Blogger and  Learner</h3>
 
 ## <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
